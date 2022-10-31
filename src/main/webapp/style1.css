@@ -1,0 +1,25 @@
+.container {
+    margin: 30px 90px 50px 90px;
+    height: auto;
+    background-color: #ee98a2;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
+.dictionary{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+
+.buttons{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+}
