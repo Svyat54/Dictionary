@@ -14,12 +14,32 @@
 
 .dictionary{
     background-color: blueviolet;
-    height: 100px;
-    width: 100px;
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-.buttons{
-    background-color: bisque;
-    height: 100px;
-    width: 100px;
+.oneLetterDiv{
+    background-color: aquamarine;
+    margin: 3px 3px;
+}
+
+.updates{
+    display: flex;
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+}
+
+.update{
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 5px;
 }
